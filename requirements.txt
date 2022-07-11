@@ -2,4 +2,4 @@ pandas
 matplotlib
 yfinance
 altair
-streamlit==1.8.1
+streamlit
