@@ -51,7 +51,7 @@ try:
     )
 
     tickers = {
-    'apple':'AAPL','facebook':'FB','google':'GOOGL','microsoft':'MSFT','netflix':'NFLX','amazon':'AMZN','Tesla':'TSLA','NVIDIA':'NVDA'
+    'apple':'AAPL','facebook':'META','google':'GOOGL','microsoft':'MSFT','netflix':'NFLX','amazon':'AMZN','Tesla':'TSLA','NVIDIA':'NVDA'
     }
 
     df = get_data(days, tickers)
